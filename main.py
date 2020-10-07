@@ -1,8 +1,8 @@
 from fractions import Fraction
 from rich import print
-from Proxima.usr_inputs import UI_Inputs
+from usr_input import UI_inputs
 
-ui = UI_Inputs()
+ui = UI_inputs()
 
 
 def main():
